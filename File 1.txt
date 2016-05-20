@@ -1,3 +1,6 @@
 Test 1
 hellos work for new branch
 branch2changes
+
+
+newbranch chages afer merge
